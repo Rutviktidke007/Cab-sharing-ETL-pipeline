@@ -1,6 +1,3 @@
-Here’s a sample `README.md` file for your project:
-
-```markdown
 # Bookings Data Pipeline using Kafka, Hadoop, Sqoop & Hive
 
 ## Overview
